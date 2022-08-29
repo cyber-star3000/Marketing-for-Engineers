@@ -516,6 +516,7 @@ Some more tips & tricks:
 * [Streak for Gmail](https://www.streak.com/) for scheduling emails to be sent later and managing your connections. With this tool, you can also see who has opened your email :wink:
 * [GMass](https://www.gmass.co/) for cold mass emailing. You can use GMass for free to send 50 emails per day.
 * [Time Converter](http://www.worldtimebuddy.com/) will help you to schedule cold emails considering different time zones.
+* [Aeroleads](https://aeroleads.com/) for finding verified emails of prospects through multiple data sites. Pricing starts at $49/mo but you get free credits to test it before spending money.
 
 
 ## :bowtie: Building Partnerships
